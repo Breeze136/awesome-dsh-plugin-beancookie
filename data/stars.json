@@ -378,8 +378,8 @@
  "https://github.com/busabase/busabase-dsh-plugin": {
   "stars": 7,
   "createdAt": "2026-09-02",
-  "etag": "W/\"5e15aa6a71261400ed05758efbc821b8ab2a9938afe3953a09817fc112386aa1\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"862a3a5e1f3da34e0abcfb6e52dcb3bb2c46d44de197dd8e7d8c90d6584b8b27\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/Buyi-wsgzg/dsh-sidechain": {
   "stars": 14,
@@ -450,14 +450,14 @@
  "https://github.com/chenzhi-clude/dsh-hooks-pack": {
   "stars": 0,
   "createdAt": "2026-08-21",
-  "etag": "W/\"4d564a68499e44c2a4b629354fcaf54c784f77d263d723620ffab62687a5202e\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"07b7cd525aa4b1a340dd48c2e0d78b54b6162027018a2285d7ee0e9a1b97458d\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/chenzhi-clude/dsh-plugin-market": {
   "stars": 0,
   "createdAt": "2026-08-21",
-  "etag": "W/\"0c0ea88bc33da08c8d757f35fdee5d6d06e4bdef660332d3897d1bd5fad3348b\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"73f747eb7f517b46839969332f3d2b9cb148be8a1ef03b3743fafd73ed75095f\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/Chinesezjc/dsh-interconnect": {
   "stars": 36,
@@ -668,10 +668,10 @@
   "checkedAt": "2026-10-18"
  },
  "https://github.com/extracurricular-ai/dsh-filesnap": {
-  "stars": 43,
+  "stars": 45,
   "createdAt": "2026-08-27",
-  "etag": "W/\"baf03ef922cc6bbc965e4663ef0db879b0d8e36ad72ed55faffecd9d8aabb72a\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"2668b3774b73c0dde7930067a09a127729b3b1f9b8c2ce2d63e526f69b86f590\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/fakechris/dsh-harness-ops": {
   "stars": 15,
@@ -898,8 +898,8 @@
  "https://github.com/hutao562/dsh-remote-dsh": {
   "stars": 0,
   "createdAt": "2026-09-10",
-  "etag": "W/\"bf2091d028d85d524d0ac01ebbaf32a9c76ae58e64a7988903044eaf2ebc88a9\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"7373912e21da9a99a34f403ea30109117c961a2b49e0100e54202a4d43dcc9b2\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/hyqhyq3/dsh-mcp-manager": {
   "stars": 23,
@@ -1668,8 +1668,8 @@
  "https://github.com/Nicholaskin/vision-exp-tile": {
   "stars": 3,
   "createdAt": "2026-09-10",
-  "etag": "W/\"87b19658034b1a6d0cbf29edfde22b4c6bca91571000548703d510be945bb331\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"a226fff420acb8952154f21736e3a4743197457c04fad24f8bc1c9a601f7af40\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/nonewind/dsh-spend": {
   "stars": 8,
@@ -2324,10 +2324,10 @@
   "checkedAt": "2026-10-19"
  },
  "https://github.com/sandbaseai/deepseek-harness-handbook": {
-  "stars": 234,
+  "stars": 235,
   "createdAt": "2026-08-14",
-  "etag": "W/\"d85467b7628ff8723292f9f49d58e2659322b9585e9be95a26d99e867cd75c29\"",
-  "checkedAt": "2026-10-17"
+  "etag": "W/\"2e86735e87c79e93b95a358fc903f8988718a746f41ee439421535d11944e955\"",
+  "checkedAt": "2026-10-24"
  },
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "stars": 3,
