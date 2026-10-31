@@ -1876,7 +1876,7 @@
     "en": "Rewind a conversation and its workspace together without touching Git; every rewind is a fork and /redo reverses it."
    },
    "npm": "dsh-filesnap",
-   "stars": 45,
+   "stars": 46,
    "createdAt": "2026-08-27",
    "install": "dsh plugin --profile web add dsh-filesnap",
    "added": "2026-09-06"
@@ -2206,7 +2206,7 @@
     "en": "Connects DSH agents to Busabase through MCP tools, approval-aware ChangeRequests, result cards, and a live record inspector."
    },
    "npm": "@busabase/dsh-plugin",
-   "stars": 7,
+   "stars": 9,
    "createdAt": "2026-09-02",
    "install": "dsh plugin --profile web add @busabase/dsh-plugin",
    "added": "2026-09-12"
