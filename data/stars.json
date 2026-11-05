@@ -1554,20 +1554,20 @@
  "https://github.com/maxmilian/dsh-grafana-query": {
   "stars": 2,
   "createdAt": "2026-08-26",
-  "etag": "W/\"7ff0c4ecf49da4284d71390740563ad6861f5521729c1d84622a1f14aa091fb4\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"583c9e9ae0138ee6b877e92b5042836afad9b4f192b64f5df0c6f66ec56c1475\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/maxmilian/dsh-odoo": {
   "stars": 2,
   "createdAt": "2026-08-26",
-  "etag": "W/\"5e2eca66747e77d7dcd170773c7cceacfce545736e4feaf2118528df3e70f85b\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"9eea2eab9e4ca4aedb8e9fb802654d3e430d5087f3e221a62a57931097bc07cf\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/maxmilian/dsh-sentry": {
   "stars": 2,
   "createdAt": "2026-08-26",
-  "etag": "W/\"3743a3ff8097707a0c43ae5fca6eedae700f6eebf632d545d21cad84e160a35e\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"ac4614a6472ebfe40495c981d7b339379a3bd06519facb6df6591f9d83447b93\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/maxmilian/dsh-sonarqube": {
   "stars": 2,
@@ -1678,10 +1678,10 @@
   "checkedAt": "2026-11-02"
  },
  "https://github.com/Noob-stupid/dsh-plugin-hub": {
-  "stars": 116,
+  "stars": 121,
   "createdAt": "2026-08-14",
-  "etag": "W/\"2358ec44a1fdca365afa63d7ebb2671a3b866ed3243e0c162f1c71ff19465edf\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"b989b6465c9e9a3cf300ab39b7b506f5694621b8ec3dbeeb47c135e85963dc49\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/nousag/dsh-writing-desk": {
   "stars": 1,
@@ -2294,10 +2294,10 @@
   "checkedAt": "2026-11-02"
  },
  "https://github.com/Renzic-Stone/DSH-EasyRewrite": {
-  "stars": 128,
+  "stars": 129,
   "createdAt": "2026-08-18",
-  "etag": "W/\"7c3ac9497f7579ccd350b55e96e25bbfcbaa6a71ed8fd73acbdbbc0ab3c76ac9\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"703c13f57af6b74f50b79c92f2a03394134d04064e663c3f594421917dbe7c5d\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/RevolutionLA/dsh-dream-skin": {
   "stars": 299,
@@ -2332,8 +2332,8 @@
  "https://github.com/sandbaseai/dsh-plugin-store": {
   "stars": 3,
   "createdAt": "2026-08-17",
-  "etag": "W/\"22207439078d734e317835b2f7bb8e0cd25f265fe1f7acdaac953a3d7b49db34\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"27754093006bbb7afa6cfea712c6508d0a7e44d36a92ae971addc2a37f11be20\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/sandbaseai/sandbase-skills": {
   "stars": 206,
@@ -2860,8 +2860,8 @@
  "https://github.com/YEYEYEYESHIFU/dsh-result-only-view": {
   "stars": 4,
   "createdAt": "2026-08-15",
-  "etag": "W/\"ee79d320280ceb821c8b2f9968eb675e7999f2de4aab0c871b0c3169718e997e\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"2feebaac91acd97dc765feff7dcf09602c6b8110bed36a9cf8d814eec7ce1f02\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys": {
   "stars": 3,
@@ -2884,8 +2884,8 @@
  "https://github.com/yindf/taskfold": {
   "stars": 11,
   "createdAt": "2026-09-02",
-  "etag": "W/\"ae31247ddd6ca0a7e1fc665f0689172aecf4814a7cbc500838f576e1a7154e85\"",
-  "checkedAt": "2026-10-29"
+  "etag": "W/\"f5be284c2f55851d73433876950c4d2b59f27b95081dd2248659440c2f4dac8d\"",
+  "checkedAt": "2026-11-05"
  },
  "https://github.com/ylwl1997/noatmark-dsh-plugin": {
   "stars": 1,
